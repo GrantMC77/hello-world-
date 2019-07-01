@@ -3,4 +3,4 @@ just another repository
 
 Hi All!
 
-Im Grant mclachlanand im doing my career ready internship
+Im Grant mclachlan and im doing my career ready internship
